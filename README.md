@@ -1,1 +1,1 @@
-https://analytics-dashboard-mt9wcunhxjg2v5mbfzk7tw.streamlit.app/
+https://analytics-dashboard-mt9wcunhxjg2v5mbfzk7tw.streamlit.app
